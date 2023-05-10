@@ -1,2 +1,3 @@
 ### Simple project for practicing basics of Javascript
-Provide credit card number and find out if it's valid or not.
+
+Just visit [link](https://solracss.github.io/creditCardValidator/index.html) and find out if your card is valid.
